@@ -437,4 +437,4 @@ ProcessEvents
 
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-33.
+Next question onwards answers are straight forward
