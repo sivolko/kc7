@@ -48,7 +48,7 @@ Ans : &#x20;
 
 4. Q  **How many total emails has Clark Kent received?**
 
-**Ans :**  ![](<../.gitbook/assets/image (7).png>)
+**Ans :**  ![](<../.gitbook/assets/image (7) (1).png>)
 
 ```kusto
 // KQL
@@ -62,7 +62,7 @@ Email
 
 Ans :  Let's modify previous Kql with date and timestamp&#x20;
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```kusto
 // KQL
@@ -79,13 +79,13 @@ URGENT: Final OpEd Draft Edits (Please publish the following article in tomorrow
 
 Ans : In previous KQL there is sender column that's answer
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. **What was the name of the .docx file that was sent in this email?**
 
 Ans :-  expand the carat located on the left side of the result&#x20;
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. **Do you think this needs further investigation (yes/no)? Choose wisely 😉**
 

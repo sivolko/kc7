@@ -25,7 +25,7 @@ Ans :- It's already written in image  newspaper\_jobs@gmail.com
 
 Ans&#x20;
 
-&#x20;![](<../.gitbook/assets/image (11).png>)
+&#x20;![](<../.gitbook/assets/image (11) (1).png>)
 
 ```kusto
 // KQL
@@ -39,7 +39,7 @@ Email
 
 Ans&#x20;
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```kusto
 // KQL
@@ -54,7 +54,7 @@ Email
 
 Ans&#x20;
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```kusto
 // KQL
@@ -82,7 +82,7 @@ OutboundNetworkEvents
 
 ```
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. What was the name of the docx file in the link that sonia clicked ?
 
@@ -110,7 +110,7 @@ FileCreationEvents
 | project timestamp
 ```
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 10. **What was the full path of the docx file that was downloaded to Sonia's machine?**
 
@@ -138,7 +138,7 @@ Ans  just modify the previous KQL and project it by sha256
 
 60b854332e393a6a2f0015383969c3ac705126a6b7829b762057a3994967a61f
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ```kusto
 // KQL
@@ -153,7 +153,7 @@ FileCreationEvents
 
 **Ans** &#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```kusto
 // KQL
@@ -175,7 +175,7 @@ Ans  Just modified previous KQL add Timestamp &#x20;
 2024-01-05T10:24:32Z
 ```
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```kusto
 // KQL
@@ -207,7 +207,7 @@ Ans Plink
 
 **Ans  3**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```kusto
 // KQL
@@ -222,7 +222,7 @@ ProcessEvents
 
 **Ans**  schtasks /create /sc hourly /mo 5 /tn "Hacktivist Manifesto" /tr "powershell.exe -ExecutionPolicy Bypass -File C:\ProgramData\hacktivist\_manifesto.ps1"
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```kusto
 // KQL
@@ -248,7 +248,7 @@ Ans  Bypass
 
 Ans  136.130.190.181
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```kusto
 // KQL
@@ -263,7 +263,7 @@ ProcessEvents
 
 Ans from previous KQL  it's there &#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```json
 $had0w
